@@ -1,0 +1,8 @@
+---
+
+# ANSIBLE VARS FILE FOR USERS
+# users:
+#  - { username: 'some user', comment: 'some comment', group: 'some group' }
+
+users:
+  - { username: 'user1', comment: 'User' }
